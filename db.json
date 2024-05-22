@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Faisal",
+      "password": "admin",
+      "email": "hayatfaisal355@gmail.com",
+      "phone": "8969753445",
+      "country": "india",
+      "address": "Bengaluru",
+      "gender": "male"
+    },
+    {
+      "id": "Arjun",
+      "name": "Arjun TR",
+      "password": "arjun",
+      "email": "arjuntr@gmail.com",
+      "phone": "7689784784",
+      "country": "india",
+      "address": "Bengaluru",
+      "gender": "male"
+    }
+  ]
+}
